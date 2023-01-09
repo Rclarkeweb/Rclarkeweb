@@ -10,7 +10,7 @@
   
 ## 💻 My Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,tailwind,bootstrap,mysql,git&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,tailwind,bootstrap,mysql,git,bash&perline=9)](https://skillicons.dev)
 
 
 ## 🧰 Tools
