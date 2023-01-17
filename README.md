@@ -1,7 +1,7 @@
 # Hello World 👋
 🙋‍♀‍ I’m Rebecca and welcome to my GitHub!  
 💻 I am a Self Taught Web Developer who loves learning new things.  
-🧠 I'm Autistic and a Neurodivergent advocate.  
+🎯 Aspiring Software Developer.  
 ✨ Using my GitHub profile to showcase some of my projects.
 
   
