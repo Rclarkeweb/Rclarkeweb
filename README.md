@@ -3,6 +3,9 @@
 💻 I am a Self Taught Web Developer who loves learning new things.  
 ✨ Using my GitHub profile to showcase some of my projects and practise code.
 
+## Contact
+![My Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white) Coming soon
+
   
 ## 🌱 Learning
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
