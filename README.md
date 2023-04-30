@@ -3,8 +3,6 @@
     aboutMe {
        "name": "Rebecca",
        "likes": "reading fiction books, coding & animals",
-       "dislikes": "windy weather, spiders, snow, cauliflower",
-       "favColor": "black.. even though it's not technically a colour",
        "probably": "coding a project, learning python or reading something from my large tbr pile",
        "job": "I currently work as a web developer",
        "workingOn": "some python projects & my portfolio website"
