@@ -4,7 +4,8 @@
 :computer: &nbsp; I work as a Web Developer  
 :seedling: &nbsp; I'm currently learning Python & some of its libraries  
 :eyes: &nbsp; I’m interested in learning about the cloud :cloud:  
-:zap: &nbsp; Fun Facts: I read a lot of fiction books & I also love Pangolins
+:dart: &nbsp; Aspiring Software Developer or QA Tester  
+:zap: &nbsp; Fun Facts: I read a lot of fiction books
 <br/>
 
 ## :postbox: &nbsp; Contact
@@ -26,4 +27,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rclarkeweb&theme=swift&hide_progress=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)    
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rclarkeweb&theme=swift&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rclarkeweb&theme=swift&hide_rank=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
