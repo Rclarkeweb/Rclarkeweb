@@ -1,8 +1,8 @@
 # Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 :woman_technologist: &nbsp; I'm @rclarkeweb  
-:computer: &nbsp; I work as a Web Developer  
-:seedling: &nbsp; I'm currently learning Python & some of its libraries  
+:computer: &nbsp; I currently work as a Web Developer  
+:seedling: &nbsp; I'm learning Python & some of its libraries  
 :eyes: &nbsp; I’m interested in learning about the cloud :cloud:  
 :dart: &nbsp; Aspiring Software Developer or QA Tester  
 :zap: &nbsp; Fun Facts: I read a lot of fiction books
