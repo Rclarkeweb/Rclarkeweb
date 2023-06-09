@@ -5,7 +5,7 @@
 :seedling: &nbsp; I'm learning Python & some of its libraries  
 :eyes: &nbsp; I’m interested in learning about the cloud :cloud:  
 :dart: &nbsp; Aspiring Software Developer or QA Tester  
-:zap: &nbsp; Fun Facts: I read a lot of fiction books
+
 <br/>
 
 ## :postbox: &nbsp; Contact
