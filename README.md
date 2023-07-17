@@ -9,7 +9,7 @@
 <br/>
 
 ## :postbox: &nbsp; Contact
-:desktop_computer: &nbsp; Portfolio Website: ~~rclarkeweb.github.io~~ *coming soon*  
+:desktop_computer: &nbsp; Portfolio Website: [rclarkeweb.github.io](https://rclarkeweb.github.io)    
 
 <br/>
 
