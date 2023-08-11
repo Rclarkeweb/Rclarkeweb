@@ -3,9 +3,9 @@
 :woman_technologist: &nbsp; I'm @rclarkeweb  
 :computer: &nbsp; I currently work as a Web Developer  
 :seedling: &nbsp; I'm learning Python & some of its libraries  
-:eyes: &nbsp; I’m interested in learning about the cloud :cloud:  
+:eyes: &nbsp; I’m interested in learning about the cloud  
 :dart: &nbsp; Aspiring Software Developer or QA Tester  
-
+:mag: &nbsp; Looking for a Junior Software Developer or Cyber Security role
 <br/>
 
 ## :postbox: &nbsp; Contact
