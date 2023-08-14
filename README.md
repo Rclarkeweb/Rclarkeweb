@@ -5,7 +5,7 @@
 :seedling: &nbsp; I'm learning Python & some of its libraries  
 :eyes: &nbsp; I’m interested in learning about the cloud  
 :dart: &nbsp; Aspiring Software Developer or QA Tester  
-:mag: &nbsp; Looking for a Junior Software Developer or Cyber Security role
+:mag: &nbsp; Looking for a Junior Software Developer or QA Tester Role
 <br/>
 
 ## :postbox: &nbsp; Contact
