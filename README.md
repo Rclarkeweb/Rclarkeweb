@@ -5,8 +5,9 @@
 :seedling: &nbsp; I'm learning Python & some of its libraries  
 :eyes: &nbsp; I’m interested in learning about the cloud  
 :dart: &nbsp; Aspiring Software Developer or QA Tester  
-:mag: &nbsp; Looking for a Junior Software Developer or QA Tester Role
-<br/>
+:mag: &nbsp; Looking for a Junior Software Developer or QA Tester Role  
+
+<br/>  
 
 ## :postbox: &nbsp; Contact
 :desktop_computer: &nbsp; Portfolio Website: [rclarkeweb.github.io](https://rclarkeweb.github.io)    
@@ -14,7 +15,7 @@
 <br/>
 
 ## 💻 &nbsp; My Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,tailwind,bootstrap,mysql,git,python,bash&perline=10)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,jquery,nodejs,python,mysql,git,bash&perline=20)](https://skillicons.dev)  
 
 <br/>
 
