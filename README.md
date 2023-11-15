@@ -1,16 +1,18 @@
-# Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+# Hello World 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Rebecca :woman_technologist:
 
-:woman_technologist: &nbsp; I'm @rclarkeweb  
-:computer: &nbsp; I currently work as a Web Developer  
-:seedling: &nbsp; I'm learning Python & some of its libraries  
-:eyes: &nbsp; I’m interested in learning about the cloud  
-:dart: &nbsp; Aspiring Software Developer or QA Tester  
-:mag: &nbsp; Looking for a Junior Software Developer or QA Tester Role  
+:computer: &nbsp; I currently work as a Website Developer  
+:dart: &nbsp; Aspiring Junior Software Developer  
+:mag: &nbsp; Looking for Junior Software Developer or QA Tester Roles  
+:seedling: &nbsp; I'm learning React and Python  
+:eyes: &nbsp; I’m interested in learning AWS  
+
 
 <br/>  
 
 ## :postbox: &nbsp; Contact
-:desktop_computer: &nbsp; Portfolio Website: [rclarkeweb.github.io](https://rclarkeweb.github.io)    
+LinkedIn: [linkedin.com/in/rclarkeweb/](https://www.linkedin.com/in/rclarkeweb/)  
+Portfolio: [rclarkeweb.github.io](https://rclarkeweb.github.io)    
+
 
 <br/>
 
