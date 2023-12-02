@@ -1,4 +1,4 @@
-# Hello World 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Rebecca :woman_technologist:
+# Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Rebecca :woman_technologist:
 
 :computer: &nbsp; I currently work as a Website Developer  
 :dart: &nbsp; Aspiring Junior Software Developer  
