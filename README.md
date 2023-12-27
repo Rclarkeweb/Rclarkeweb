@@ -12,7 +12,7 @@
 ## :postbox: &nbsp; Contact
 LinkedIn: [linkedin.com/in/rclarkeweb/](https://www.linkedin.com/in/rclarkeweb/)  
 Portfolio: [rclarkeweb.github.io](https://rclarkeweb.github.io)    
-Blog: [dev.to/autisticintech](https://dev.to/autisticintech)
+Blog: [coming soon]()
 
 
 <br/>
