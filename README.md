@@ -18,7 +18,7 @@ Blog: [coming soon]()
 <br/>
 
 ## 💻 &nbsp; My Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,jquery,nodejs,express,python,postgresql,git,bash&perline=20)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,jquery,nodejs,express,react,python,postgresql,git,bash&perline=20)](https://skillicons.dev)  
 
 <br/>
 
