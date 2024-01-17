@@ -3,7 +3,7 @@
 :computer: &nbsp; I currently work as a Website Developer  
 :dart: &nbsp; Aspiring Junior Software Developer  
 :mag: &nbsp; Looking for Junior Software Developer or QA Tester Roles  
-:seedling: &nbsp; I'm learning React and Python  
+:seedling: &nbsp; I'm learning MongoDB, testing and Python  
 :eyes: &nbsp; I’m interested in learning AWS  
 
 
@@ -12,7 +12,6 @@
 ## :postbox: &nbsp; Contact
 LinkedIn: [linkedin.com/in/rclarkeweb/](https://www.linkedin.com/in/rclarkeweb/)  
 Portfolio: [rclarkeweb.github.io](https://rclarkeweb.github.io)    
-Blog: [coming soon]()
 
 
 <br/>
